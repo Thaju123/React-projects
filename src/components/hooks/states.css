@@ -1,0 +1,9 @@
+button{
+  margin-right: 40rem;
+}
+.states{
+    margin-top: 10rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
